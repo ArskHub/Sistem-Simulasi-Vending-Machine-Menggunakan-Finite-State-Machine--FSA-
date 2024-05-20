@@ -1,0 +1,6 @@
+Laporan yang berjudul "TUGAS TEORI BAHASA DAN OTOMATA
+PROBLEM SOLVING KASUS VENDING MACHINE PADA MESIN PENJUALAN BUSANA ADAT OTOMATIS DI PURA TAMPAK SIRING" ini membahas tentang implementasi finite state automata (FSA) pada vending machine, yang mana pada kasus ini vending machine penjualan busana adat otomatis di Pura Tampak Siring. 
+
+Laporan ini mencakup beberapa hal mulai dari latar belakang permasalahan yang menjadi alasan pencetusan vending machine ini. Lalu diikuti dengan penerapan finite state automatanya yang meliputi diagram transisi, diagram state, pendefenisian tuple, tabel transisi input/output, use case diagram, activity diagram, desain sistem dan beberapa flowchart menu. Setelah itu terdapat juga algoritma finite state automata dalam bahasa python, dan diikuti dengan antarmukanya dalam baik dalam bentuk gambar atau yang sudah ditambah pada rancangan vending machinenya pada bagian desain sistem.
+
+Video kami dapat diakses melalui link berikut: https://youtu.be/1m0JbzVw1Mw
